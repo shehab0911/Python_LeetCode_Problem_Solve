@@ -215,7 +215,7 @@ def merge(left, right):
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/leetcode-problems.git
+    [git clone https://github.com/your-username/leetcode-problems.git](https://github.com/shehab0911/Python_LeetCode_Problem_Solve.git)
    ```
 
 2. Navigate to the desired category and problem to view the solution.
