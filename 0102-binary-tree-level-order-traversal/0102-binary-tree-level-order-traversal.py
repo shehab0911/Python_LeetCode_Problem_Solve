@@ -9,8 +9,9 @@ class Solution(object):
     def levelOrder(self, root):
         if root is None:
             return []
-        queue=deque([root])
+        queue=deque[root]
         result=[]
+
         while queue:
             level=[]
             for _ in range(len(queue)):
@@ -22,6 +23,10 @@ class Solution(object):
                     queue.append(node.right)
             result.append(level)
         return result
+
+                
+
+       
 
 
 
