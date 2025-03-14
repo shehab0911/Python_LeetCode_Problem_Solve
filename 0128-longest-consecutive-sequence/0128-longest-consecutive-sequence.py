@@ -1,6 +1,8 @@
 class Solution(object):
     def longestConsecutive(self, nums):
         list1=[]
+        if not nums:
+            return 0
         num = list(set(nums))
         num.sort()
 
