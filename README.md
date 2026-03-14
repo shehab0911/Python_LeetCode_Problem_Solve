@@ -259,3 +259,15 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
+<!---LeetCode Topics End-->
