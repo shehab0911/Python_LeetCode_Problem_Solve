@@ -265,9 +265,11 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
