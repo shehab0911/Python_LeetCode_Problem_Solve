@@ -282,5 +282,6 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0006-zigzag-conversion/) | Medium |
 | [0443-string-compression](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
