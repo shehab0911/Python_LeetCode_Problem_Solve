@@ -266,6 +266,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
 ## Greedy
@@ -278,10 +279,23 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0443-string-compression](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0443-string-compression/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0006-zigzag-conversion/) | Medium |
 | [0443-string-compression](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0443-string-compression/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
