@@ -16,11 +16,11 @@ class Solution(object):
                 result += leftmax - height[l]
             else:
                 r -= 1
-                rightmax = max(rightmax, height[r])  # FIXED
+                rightmax = max(rightmax, height[r])  
                 result += rightmax - height[r]
         
         return result
-        return result
+        
 
        
 
