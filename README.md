@@ -269,6 +269,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,4 +300,16 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
