@@ -285,6 +285,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0006-zigzag-conversion/) | Medium |
 | [0443-string-compression](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
@@ -312,4 +313,12 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
