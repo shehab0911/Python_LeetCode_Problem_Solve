@@ -268,6 +268,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | [0011-container-with-most-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0605-can-place-flowers](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0605-can-place-flowers/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
@@ -304,6 +305,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -317,8 +319,29 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
