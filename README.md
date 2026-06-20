@@ -265,6 +265,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0056-merge-intervals/) | Medium |
@@ -322,6 +323,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
