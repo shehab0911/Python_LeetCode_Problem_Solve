@@ -289,6 +289,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0006-zigzag-conversion/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0443-string-compression](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -320,6 +321,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sliding Window
@@ -350,4 +352,8 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
