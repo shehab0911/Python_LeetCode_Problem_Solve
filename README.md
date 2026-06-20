@@ -267,6 +267,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
+| [0056-merge-intervals](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0056-merge-intervals/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -331,6 +332,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
