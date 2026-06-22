@@ -270,6 +270,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0057-insert-interval/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -286,6 +287,7 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0042-trapping-rain-water/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0443-string-compression/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -361,4 +363,12 @@ Happy coding! 🎉 If you find this repository helpful, don't forget to give it 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shehab0911/Python_LeetCode_Problem_Solve/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
